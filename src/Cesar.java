@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-package PACKAGE_NAME;public class Cesar {
-}
-=======
+
 public class Cesar {
 
     private static final String ENGLISH_ALPHABET = "abcdefghijklmnopqrstuvwxyz";
@@ -51,5 +48,3 @@ public class Cesar {
         return result.toString();
     }
 }
-
->>>>>>> 026d9e0 (CesarShifr ver 1.0)

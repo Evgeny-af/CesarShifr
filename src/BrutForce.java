@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-package PACKAGE_NAME;public class BrutForce {
-=======
+
 public class BrutForce {
 
     // Метод для дешифровки текста с использованием шифра Цезаря
@@ -31,11 +29,4 @@ public class BrutForce {
         return decryptedText.toString();
     }
 
-    public static void main(String[] args) {
-        String cipherText = "F xjui uif dpnqmfy!";
-        String decryptedText = decrypt(cipherText);
-
-        System.out.println("Расшифрованный текст: " + decryptedText);
-    }
->>>>>>> 026d9e0 (CesarShifr ver 1.0)
 }
